@@ -1,1 +1,1 @@
-# Some of my code studies that I did in Data Science class.
+# Data analyses and regressions I did in the Data Science course
