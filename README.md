@@ -1,6 +1,6 @@
 # 📊 Data Science Explorations
 
-This repository contains data analysis, exploratory data analysis (EDA), and machine learning applications on various datasets.
+This repository contains data analysis, exploratory data analysis (EDA), and machine learning applications on various datasets. 
 
 🗓 **Project Created: November 2023**
 
